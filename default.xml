@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<manifest>
+        <remote  name="origin"
+           fetch="git@github.com:YongweiChen/repo_test.git" />
+        <default
+           remote="origin" revision="master"
+           sync-j="4" />
+
+       <project name="test" path="test"/>
+</manifest>
