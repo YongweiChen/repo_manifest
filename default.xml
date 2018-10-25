@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding='UTF-8'?>
 <manifest>
         <remote  name="origin"
-           fetch="git@github.com:YongweiChen/repo_test/" />
+           fetch="git@github.com:YongweiChen/repo_test"/>
         <default
            remote="origin" revision="master"
-           sync-j="4" />
-
+           sync-j="4"/>
        <project name="SqliteDemo" path="SqliteDemo"/>
 </manifest>
