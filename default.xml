@@ -6,6 +6,6 @@
            remote="origin" revision="master"
            sync-j="4" />
 
-       <project name="test1" path="test1"/>
-       <project name="test2" path="test2"/>
+       <project name="test1.git" path="test1"/>
+       <project name="test2.git" path="test2"/>
 </manifest>
